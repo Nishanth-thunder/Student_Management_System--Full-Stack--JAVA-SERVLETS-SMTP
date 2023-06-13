@@ -12,3 +12,5 @@ Steps to use:
 8. Run all the create files via java application.
 9. Run the index.html via server.
 10. Play with the website. Kindly support! Thank you!
+
+P.S: Make sure to disable antivirus softwares so that SMTP will work and you can send mails.
